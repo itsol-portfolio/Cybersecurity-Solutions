@@ -1,0 +1,4 @@
+Version 1.0.0
+Initial release – Cybersecurity demos for hashing and encryption
+Includes overview and Python ZIP sample
+Date: November 2025
